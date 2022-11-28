@@ -1,2 +1,5 @@
 # Encrypted-Chat-Room
-Encrypted Chat Room using server-side and client-side scripts written in python. Encryption using Vigenere Cipher.
+Run the server and client side scripts on respective computers in local network.
+1. Encryption using Vigenere Cipher.
+2. The format for command is "python3 Client.py/Server.py 'serverIP' 'PortNumber' 'userId'" 
+
